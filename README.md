@@ -1,2 +1,3 @@
 # git-conflict-test
-1조 git test
+
+밍쿠짱짱123
