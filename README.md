@@ -1,3 +1,2 @@
 # git-conflict-test
-
-저녁먹고싶다
+밍쿠짱짱123
