@@ -1,2 +1,1 @@
-# git-conflict-test
-1조 git test
+힘들었네요
